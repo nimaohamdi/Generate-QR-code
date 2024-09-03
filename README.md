@@ -8,4 +8,4 @@ pip install wifi-qrcode-generator
 
 
 
-thank you
+
